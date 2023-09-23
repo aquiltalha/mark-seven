@@ -1,3 +1,48 @@
+*{
+    font-family: 'Fuggles', cursive;
+    text-align:center;
+    
+    
+
+}
+#btn-translate{
+        margin: 1rem;
+        border: 2px solid black;
+        padding: 0.5rem;
+        background-color:white;
+        color:green;
+        font-weight: bold;
+        border-radius:12px;
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    
+}
+#btn-translate:hover{
+    background-color:blue;
+    color:red;
+
+}
 h1{
-    ;
+    background-color:#cbd5e1;
+    padding:1ren;
+    height:10vh;
+    font-size:xx-large;
+    color:#dc2626;
+
+    
+}
+.container{
+    text-align:center;
+    margin:auto;
+    background-color:#f43f5e;
+    
+}
+.footer{
+    margin: 1rem;
+    border: 2px green;
+    text-align:center;
+    padding: 1rem;
+    background-color:#f87171;
+    color: white;
+    font-weight: bold;
+
 }
